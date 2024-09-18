@@ -26,8 +26,8 @@ This project is a web application that allows users to draw mathematical express
 
 1. Clone the repository:
    ```
-   git clone [https://github.com/shashank651156/CalcPlus]
-   cd [CalcPlus]
+   git clone https://github.com/shashank651156/CalcPlus
+   cd CalcPlus
    ```
 
 2. Install backend dependencies:
