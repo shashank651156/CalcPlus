@@ -1,3 +1,5 @@
+https://github.com/user-attachments/assets/5ec37134-bdae-463f-baad-cf8e23e1ce62
+
 # CalcPlus
 Advanced calculator with standard, scientific, and AI-powered computational capabilities. Features natural language input, predictive calculations, and data analysis tools. Built with React, TypeScript, and integrates cutting-edge machine learning models. Combines traditional calculation with intelligent, context-aware problem-solving.
 # Math Problem Solver
@@ -32,6 +34,10 @@ This project is a web application that allows users to draw mathematical express
    ```
    pip install -r requirements.txt
    ```
+
+https://github.com/user-attachments/assets/5215166c-1769-433b-b589-65a3880773f4
+
+
 
 3. Install frontend dependencies:
    ```
