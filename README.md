@@ -35,10 +35,6 @@ This project is a web application that allows users to draw mathematical express
    pip install -r requirements.txt
    ```
 
-https://github.com/user-attachments/assets/5215166c-1769-433b-b589-65a3880773f4
-
-
-
 3. Install frontend dependencies:
    ```
    cd frontend
